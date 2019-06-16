@@ -1,0 +1,10 @@
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\bin\Debug\AES.exe.config
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\bin\Debug\AES.exe
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\bin\Debug\AES.pdb
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.Form1.resources
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.Properties.Resources.resources
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.csproj.GenerateResource.cache
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.exe
+F:\GitHub\AESDemo\AESDemo\C#\AES\AES\obj\Debug\AES.pdb
